@@ -1,0 +1,6 @@
+This project creates a Web Board to create topics,user accounts,posts,edit post,reply for topics,create user accounts,login and logout.
+This follows the tutorial: https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ with few changes.
+
+
+Note/TBD:
+Email notification for password reset needs to be done.
